@@ -9,4 +9,4 @@ During backtesting of various popular stocks (AAPL, AMZN, MSFT, etc.), the buy/s
 In an added condition, even if the Z-Score is not favourable but current previous tick volume lies within a 15% margin of the max volume of previous 20 ticks, a buy or sell order will be made, according to stance.
 Backtesting has revealed a return of almost 0.35% in a day on a single stock 
 
-NOTE: The algorithm seems to perform especially well on relatively volatile stocks when intraday trading over a duration of 5 or more days seein upwards of 1.5% returns in that time period
+NOTE: The algorithm seems to perform especially well on relatively volatile stocks when intraday trading over a duration of 5 or more days seeing upwards of 1.5% returns in that time period
